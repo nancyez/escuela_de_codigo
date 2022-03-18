@@ -49,4 +49,5 @@ Resultado = If numero%2 == 0 ENTONCES "Es número par" SINO "Es número impar"
 FIN
 
 
-![image](https://user-images.githubusercontent.com/101658619/158855880-e2fce647-9021-478a-a0d2-73aa32e42a65.png)
+![image](https://user-images.githubusercontent.com/101658619/158856115-f43834b4-46aa-4dc3-878d-0974f7a58824.png)
+
