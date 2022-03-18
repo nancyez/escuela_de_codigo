@@ -37,11 +37,17 @@
 3. Mostrar ("Ingrese la letra S o N, por favor")
 4. Resultado = letraN O LetraS
 5. EN CASO DE (letra) HAGA caso a:mostrar ("Es una vocal")
+6.
                            caso e:mostrar ("Es una vocal")
+                           
                            caso i:mostrar ("Es una vocal")
+                           
                            caso o:mostrar ("Es una vocal")
+                           
                            caso u:mostrar ("Es una vocal")
+                           
                            SINO mostrar ("No es una vocal)
+                           
                            FINSI
     FINSI
 7.Fin 
